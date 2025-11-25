@@ -2,7 +2,7 @@
 # SQL Exercises Readme
 
 ## Overview
-This set of exercises covers various SQL topics to help you practice and improve your skills.
+This set of exercises covers various SQL topics to help practice and improve my skills.
 
 ## Topics Covered
 1. Selecting and Filtering Statements
@@ -13,4 +13,4 @@ This set of exercises covers various SQL topics to help you practice and improve
 6. SQL Fundamentals
 
 ## Purpose
-These exercises are designed to help you learn and practice different aspects of SQL programming.
+These exercises are designed to help learn and practice different aspects of SQL programming.
